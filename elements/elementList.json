@@ -1,0 +1,388 @@
+{
+    "smsCommands": [
+        {
+            "name": "ATT_AM_LBE",
+            "dataset": {
+                "id": "BvXwZ4ViEjh"
+            },
+            "smsCodes": [
+                {
+                    "code": "SP",
+                    "dataElement": {
+                        "name": "Students Present - Morning Shift LBE",
+                        "id": "bqGnhjyut3v"
+                    }
+                },
+                {
+                    "code": "AP",
+                    "dataElement": {
+                        "name": "Absent with Permission - Morning Shift LBE",
+                        "id": "AdEPmAOzWld"
+                    }
+                },
+                {
+                    "code": "AW",
+                    "dataElement": {
+                        "name": "Absent without Permission - Morning Shift LBE",
+                        "id": "AWvBlo6Sb3U"
+                    }
+                },
+                {
+                    "code": "TP",
+                    "dataElement": {
+                        "name": "Teachers Present On Time - Morning Shift LBE",
+                        "id": "Tw4beCX4CDR"
+                    }
+                },
+                {
+                    "code": "SA",
+                    "dataElement": {
+                        "name": "Students Absent - Morning Shift LBE",
+                        "id": "HB3mrs4Y1fr"
+                    }
+                },
+                {
+                    "code": "LB",
+                    "dataElement": {
+                        "name": "Late Before 30mins - Morning Shift LBE",
+                        "id": "sZqTVA1E5sL"
+                    }
+                },
+                {
+                    "code": "LA",
+                    "dataElement": {
+                        "name": "Late After 30mins - Morning Shift LBE",
+                        "id": "nVL8eRQ0Bah"
+                    }
+                },
+                {
+                    "code": "FP",
+                    "dataElement": {
+                        "name": "Female Teachers Present - Morning Shift LBE",
+                        "id": "kMBbcgRKCeH"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ATT_AM_SSE",
+            "dataset": {
+                "id": "MaOu90TPS5K"
+            },
+            "smsCodes": [
+                {
+                    "code": "TP",
+                    "dataElement": {
+                        "name": "Teachers Present On Time - Morning Shift SSE",
+                        "id": "mH6UdlHyf7d"
+                    }
+                },
+                {
+                    "code": "AP",
+                    "dataElement": {
+                        "name": "Absent with Permission - Morning Shift SSE",
+                        "id": "Ldain0NVT1O"
+                    }
+                },
+                {
+                    "code": "SA",
+                    "dataElement": {
+                        "name": "Students Absent - Morning Shift SSE",
+                        "id": "kFXr91g1rGV"
+                    }
+                },
+                {
+                    "code": "LB",
+                    "dataElement": {
+                        "name": "Late Before 30mins - Morning Shift SSE",
+                        "id": "sMzBzRmuna0"
+                    }
+                },
+                {
+                    "code": "LA",
+                    "dataElement": {
+                        "name": "Late After 30mins - Morning Shift SSE",
+                        "id": "NReYplKwZg4"
+                    }
+                },
+                {
+                    "code": "AW",
+                    "dataElement": {
+                        "name": "Absent without Permission - Morning Shift SSE",
+                        "id": "JUAZ1Lx3mJN"
+                    }
+                },
+                {
+                    "code": "SP",
+                    "dataElement": {
+                        "name": "Students Present - Morning Shift SSE",
+                        "id": "FbfsIUHmiCQ"
+                    }
+                } ,
+                {
+                    "code": "FP",
+                    "dataElement": {
+                        "name": "Female Teachers Present - Morning Shift SSE",
+                        "id": "yA6Az1t4wFL"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ATT_AM_UBE",
+            "dataset": {
+                "id": "USSU4IIW01o"
+            },
+            "smsCodes": [
+                {
+                    "code": "TP",
+                    "dataElement": {
+                        "name": "Teachers Present On Time - Morning Shift UBE",
+                        "id": "aJLsztrf1Cr"
+                    }
+                },
+                {
+                    "code": "LB",
+                    "dataElement": {
+                        "name": "Late Before 30mins - Morning Shift UBE",
+                        "id": "b9QOdI7MM8o"
+                    }
+                },
+                {
+                    "code": "AP",
+                    "dataElement": {
+                        "name": "Absent with Permission - Morning Shift UBE",
+                        "id": "fmSFHbvcXxs"
+                    }
+                },
+                {
+                    "code": "SP",
+                    "dataElement": {
+                        "name": "Students Present - Morning Shift UBE",
+                        "id": "UH9ssqUwx2A"
+                    }
+                },
+                {
+                    "code": "LA",
+                    "dataElement": {
+                        "name": "Late After 30mins - Morning Shift UBE",
+                        "id": "yH5WdmOvEL4"
+                    }
+                },
+                {
+                    "code": "AW",
+                    "dataElement": {
+                        "name": "Absent without Permission - Morning Shift UBE",
+                        "id": "U4sXO1xrKqv"
+                    }
+                },
+                {
+                    "code": "SA",
+                    "dataElement": {
+                        "name": "Students Absent - Morning Shift UBE",
+                        "id": "TwMWsSscV58"
+                    }
+                },
+                {
+                    "code": "FP",
+                    "dataElement": {
+                        "name": "Female Teachers Present - Morning Shift UBE",
+                        "id": "Wuy58zQN4Yf"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ATT_PM_LBE",
+            "dataset": {
+                "id": "AicPsN5y46Q"
+            },
+            "smsCodes": [
+                {
+                    "code": "AW",
+                    "dataElement": {
+                        "name": "Absent without Permission - Afternoon Shift LBE",
+                        "id": "n4z81nVF7zo"
+                    }
+                },
+                {
+                    "code": "SA",
+                    "dataElement": {
+                        "name": "Students Absent - Afternoon Shift LBE",
+                        "id": "uVi8OhLXwNJ"
+                    }
+                },
+                {
+                    "code": "TP",
+                    "dataElement": {
+                        "name": "Teachers Present On Time - Afternoon Shift LBE",
+                        "id": "FHwFmw3WfGM"
+                    }
+                },
+                {
+                    "code": "SP",
+                    "dataElement": {
+                        "name": "Students Present - Afternoon Shift LBE",
+                        "id": "TO5YTpXiNoq"
+                    }
+                },
+                {
+                    "code": "LA",
+                    "dataElement": {
+                        "name": "Late After 30mins - Afternoon Shift LBE",
+                        "id": "WKGidrQFgFJ"
+                    }
+                },
+                {
+                    "code": "LB",
+                    "dataElement": {
+                        "name": "Late Before 30mins - Afternoon Shift LBE",
+                        "id": "sxvI0YNhFEB"
+                    }
+                },
+                {
+                    "code": "AP",
+                    "dataElement": {
+                        "name": "Absent with Permission - Afternoon Shift LBE",
+                        "id": "ZcbPlHdUJR5"
+                    }
+                },
+                {
+                    "code": "FP",
+                    "dataElement": {
+                        "name": "Female Teachers Present - Afternoon Shift LBE",
+                        "id": "uOHJ66GsC8A"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ATT_PM_SSE",
+            "dataset": {
+                "id": "Xm9ytVpOdIK"
+            },
+            "smsCodes": [
+                {
+                    "code": "SA",
+                    "dataElement": {
+                        "name": "Students Absent - Afternoon Shift SSE",
+                        "id": "No0zWPhQNK9"
+                    }
+                },
+                {
+                    "code": "AP",
+                    "dataElement": {
+                        "name": "Absent with Permission - Afternoon Shift SSE",
+                        "id": "HZ7lIdZ8J82"
+                    }
+                },
+                {
+                    "code": "LA",
+                    "dataElement": {
+                        "name": "Late After 30mins - Afternoon Shift SSE",
+                        "id": "WMJmi0vMcEK"
+                    }
+                },
+                {
+                    "code": "SP",
+                    "dataElement": {
+                        "name": "Students Present - Afternoon Shift SSE",
+                        "id": "pjb0GQ4NrOG"
+                    }
+                },
+                {
+                    "code": "AW",
+                    "dataElement": {
+                        "name": "Absent without Permission - Afternoon Shift SSE",
+                        "id": "TEaTWWYrFjN"
+                    }
+                },
+                {
+                    "code": "LB",
+                    "dataElement": {
+                        "name": "Late Before 30mins - Afternoon Shift SSE",
+                        "id": "n8cK5VVNrtH"
+                    }
+                },
+                {
+                    "code": "TP",
+                    "dataElement": {
+                        "name": "Teachers Present On Time - Afternoon Shift SSE",
+                        "id": "g0R4kD3YlZ8"
+                    }
+                },
+                {
+                    "code": "FP",
+                    "dataElement": {
+                        "name": "Female Teachers Present - Afternoon Shift SSE",
+                        "id": "bR1Ml4l9d3b"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "ATT_PM_UBE",
+            "dataset": {
+                "id": "jpGJUlVqrcm"
+            },
+            "smsCodes": [
+                {
+                    "code": "AW",
+                    "dataElement": {
+                        "name": "Absent without Permission - Afternoon Shift UBE",
+                        "id": "PFkCYqYtCPR"
+                    }
+                },
+                {
+                    "code": "SP",
+                    "dataElement": {
+                        "name": "Students Present - Afternoon Shift UBE",
+                        "id": "MgpoEsP7yCF"
+                    }
+                },
+                {
+                    "code": "SA",
+                    "dataElement": {
+                        "name": "Students Absent - Afternoon Shift UBE",
+                        "id": "xoXzEigcyQh"
+                    }
+                },
+                {
+                    "code": "LA",
+                    "dataElement": {
+                        "name": "Late After 30mins - Afternoon Shift UBE",
+                        "id": "Z6oXLF2P6Kj"
+                    }
+                },
+                {
+                    "code": "LB",
+                    "dataElement": {
+                        "name": "Late Before 30mins - Afternoon Shift UBE",
+                        "id": "Lk4vssJ6VDa"
+                    }
+                },
+                {
+                    "code": "AP",
+                    "dataElement": {
+                        "name": "Absent with Permission - Afternoon Shift UBE",
+                        "id": "ClO5UqA28h2"
+                    }
+                },
+                {
+                    "code": "TP",
+                    "dataElement": {
+                        "name": "Teachers Present On Time - Afternoon Shift UBE",
+                        "id": "osPQBP03bCW"
+                    }
+                },
+                {
+                    "code": "FP",
+                    "dataElement": {
+                        "name": "Female Teachers Present - Afternoon Shift UBE",
+                        "id": "YwwjxCMX3K1"
+                    }
+                }
+            ]
+        }
+    ]
+}

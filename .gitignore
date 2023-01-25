@@ -1,0 +1,7 @@
+_next
+files-logs
+node_modules
+.build
+.env
+Ajoute
+note.md
